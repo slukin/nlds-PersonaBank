@@ -1,0 +1,109 @@
+UniqueId,Suffix,FileName,polarity,Interp layer,Topic(s),First few words
+1,bug_out_for_bloog_interp,a001_bug_out_for_bloog_interp,NEG,TRUE,bug,"Bug out for blood the other night,"
+2,young_man_dies,a002_young_man_dies,NEG,FALSE,death,"A few years ago, a young man died out on my front lawn when he crashed his motorbike. "
+3,garden_improvement,a003_garden_improvement,POS,FALSE,garden,"Today when I arrived at my community garden plot, it actually looked like a garden."
+4,summer_plants,a004_summer_plants,POS,FALSE,garden,We pulled up all the summer plants today.
+5,new_kitten,a005_new_kitten,POS,FALSE,pets,"I have two cats. I always felt like I was a dog person, but we decided to get a kitty because they are more low maintenance than dogs."
+6,cat_adoption,a006_cat_adoption,POS,FALSE,pets,"Just after New Years in 2006 we went and adopted Charlie, our best cat friend. "
+7,SWAT_protest,a007_SWAT_protest,NEG,FALSE,work,Today was a very eventful work day.
+8,chicago_crazy_weather_interp,a008_chicago_crazy_weather_interp,NEG,TRUE,storm,We've seriously had some crazy weather these past couple of days... 
+9,my_new_bunny_interp,a009_my_new_bunny_interp,POS,TRUE,pets,"Well, I decided to name the bunny Devi."
+10,embarrased_teacher_revealed_underwear_interp,a010_embarrased_teacher_revealed_underwear_interp,NEG,TRUE,work,Just thought I would share with you one of my most embarassing moments as a teacher to date.
+11,fire_in_broken_overn_interp,a011_fire_in_broken_overn_interp,POS,TRUE,technology,Woohoo!! So excited about my new range I ordered a few days ago. 
+12,squirrel_scared_by_own_reflection_interp,a012_squirrel_scared_by_own_reflection_interp,POS,TRUE,squirrel,This is one of those times I wish I had a digital camera.
+13,potty_training_plight_interp,a013_potty_training_plight_interp,NEG,TRUE,family,"Even if we're on 'vacation', potty re-learning goes on. "
+14,prayers_for_puppy_interp,a014_prayers_for_puppy_interp,NEG,TRUE,pets,Board: prayer and Healing Author: ######### #### we found out on Friday that our 11 year old puppy has kidney failure. 
+15,fixing_car_with_crayola_marker_interp,a015_fixing_car_with_crayola_marker_interp,NEG,TRUE,accident,"What happened today... yeah, I had to put it down somewhere to remember this. Basically, Jane reversed her car and bumped into the car behind us. "
+16,atm_mistake_gives_temporary_wealth_interp,a016_atm_mistake_gives_temporary_wealth_interp,POS,TRUE,technology,Last week this Commonwealth Bank ATM on Swanston was spitting out 50 dolla notes instead of 20's. 
+17,car_accident_hug_interp,a017_car_accident_hug_interp,NEG,TRUE,accident,So my most recent strangely happy moment. I was in a car accident the other day. 
+18,new_mothers_foul_mouth_interp,a018_new_mothers_foul_mouth_interp,NEG,TRUE,family,"Before I had children, I worried about my incredibly foul mouth. "
+19,biggest_storm,a019_biggest_storm,POS,FALSE,storm,"That was one hell of a storm, the biggest to hit Baton Rouge."
+20,replacing_water_damanged_phone_interp,a020_replacing_water_damanged_phone_interp,POS,TRUE,technology,I am new here so I dont know if this has been posted but me and my father bought iPhone 3G's 
+21,pulled_over_for_speeding_interp,a021_pulled_over_for_speeding_interp,NEG,TRUE,accident,I got pulled over this morning!! Err... Yesterday morning... 
+22,new_fling_already_has_girlfriend_interp,a022_new_fling_already_has_girlfriend_interp,NEG,TRUE,romance,I met this boy Sunday and we hung out all day and did a lot of flirting! 
+23,son_fell_off_changing_table_interp,a023_son_fell_off_changing_table_interp,NEG,TRUE,family,"What one thing have you done in your life that you are you most ashamed of? When my son was 3 months old, I was changing him on his rather high changing table "
+24,heart_was_skipping_beats_interp,a024_heart_was_skipping_beats_interp,NEG,TRUE,sickness,The scariest thing happened to me this morning. I was all ready to go to school 
+25,bridal_magazine_incident_interp,a025_bridal_magazine_incident_interp,NEG,TRUE,romance,I just love making an ass of myself in public places. There's a really cute barista at the b&N cafe. 
+26,dreamt_that_tears_turned_to_laughter_interp,a026_dreamt_that_tears_turned_to_laughter_interp,POS,TRUE,dream,"I had a dream last night, or perhaps this morning, since I kept waking up to my alarm and resetting it for a few minutes more sleep. "
+27,irrigation_canal_photo_opportunity_interp,a027_irrigation_canal_photo_opportunity_interp,POS,TRUE,photography,"We've passed this irrigation canal, for the watering of the fields, many years and many seasons."
+28,got_a_ride_home_from_crush_in_class_interp,a028_got_a_ride_home_from_crush_in_class_interp,NEG,TRUE,romance,There's a woman in one f my classes who I am very attracted to.
+29,comes_to_tears,a029_comes_to_tears,NEG,FALSE,stress,"Bob searched around his bag for his keys, quickly finding what he was looking for and turning the lock to open his door."
+30,powder_makes_muscles_bigger,a030_powder_makes_muscles_bigger,POS,FALSE,workout,"Ok, I never noticed this but like 3 weeks ago my dad bought this powdered chocolate that you put into a drink "
+31,journalist_beaten_nearly_to_death,a031_journalist_beaten_nearly_to_death,NEG,FALSE,"work, life, death","I am a Palestinian journalist from Gaza. At the age of 17, I armed myself with a camera and a pen, "
+32,saw_ex_at_walmart,a032_saw_ex_at_walmart,NEG,FALSE,romance,Ok so I was leaving Walmart... fun fun! Guess who drives by me?? 
+33,met_future_wife_at_army_snackbar,a033_met_future_wife_at_army_snackbar,POS,FALSE,romance,"I first saw my wife in the AAFES (Army & air Force exchange service) Snack bar, more than 30 years ago."
+34,protest_story,a034_protest_story,NEG,FALSE,work,Today was a very eventful work day. Today was the start of the G20 summit. 
+35,conflict_story,a035_conflict_story,NEG,FALSE,work,"Two years ago, my division got a new director. "
+36,arrest_story,a036_arrest_story,NEG,FALSE,arrest,"Now, on with this week's story... The last month has been hectic. "
+37,unrequited_crush_causes_awkwardness,a037_unrequited_crush_causes_awkwardness,NEG,FALSE,romance,"I know I said in my last entry that I was gonna start dating like a guy, but I started crushin on this guy."
+38,the_new_year,a038_the_new_year,NEG,FALSE,"family, sickness",The new year has begun and it is time for me to get back into the swing of things. 
+39,relax_after_wedding,a039_relax_after_wedding,POS,FALSE,romance, I have had a time to relax after the wedding. It was a glorious day. 
+40,freezing_run,a040_freezing_run,POS,FALSE,running,On leaving the warmth of my car it seemed a very wise idea to have put on my (very manly) tights for this event. 
+41,arguiing_couple_brightens_workday,a041_arguiing_couple_brightens_workday,POS,FALSE,work,"Sometimes work can be extremely boring, like this morning when we were slow."
+42,finding_family_online,a042_finding_family_online,POS,FALSE,family, This last week I was exploring the FamilySearch Learning Center area to see what was new. 
+43,month_of_birthdays,a043_month_of_birthdays,POS,FALSE,family, February was the month of birthdays. The month got started with a birthday celebration for the twins.
+44,sick_during_travels,a044_sick_during_travels,NEG,FALSE,"sickness, travel","I'm writing this from the Bogota airport, waiting for my flight back to Santiago. "
+45,crazy_trip,a045_crazy_trip,NEG,FALSE,travel,So this has been a crazy trip already. We left yesterday morning; everything was on time and we made it to Houston without any problems.
+46,frog_rescue_from_hole,a046_frog_rescue_from_hole,POS,FALSE,frog,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13... 13 frogs, that is... Yes, I'm talking about the little green jumping animals.."
+47,tsujiki_fish_market,a047_tsujiki_fish_market,POS,FALSE,"travel, fish",On Monday morning myself and Anne## headed down to Tsujiki Fish market for the early morning auction. 
+48,sushi_for_breakfast,a048_sushi_for_breakfast,POS,FALSE,fish,We did indeed have sushi for breakfast yesterday after an early start at the Tsujiki fish market!
+49,wood_frog,a049_wood_frog,POS,FALSE,frog,"Last night, while loading some firewood into our shed, something hopped around the grass at my feet."
+50,wasp_release_yields_frogs,a050_wasp_release_yields_frogs,POS,FALSE,"frog, bug",There are now some frogs in our backyard. It started with a wasp.
+51,frog_watching_at_dusk,a051_frog_watching_at_dusk,POS,FALSE,frog,"I was outside with my two youngest, when I looked down by my feet and saw a frog next to my foot. "
+52,sledding_with_kids,a052_sledding_with_kids,POS,FALSE,"snow, sledding",We went to the conservation here in town on the 10th and we all had SUCH a good time!  John### and I even went down the hill too.
+53,driveway_sledding,a053_driveway_sledding,POS,FALSE,"snow, sledding",North Carolina finally saw some snow today! 
+54,snowday_memories,a054_snowday_memories,POS,FALSE,"snow, sledding","Dear gentle readers, I'm stuck inside for nearly the second day in a row due to snow. "
+55,christmas_productivity,a055_christmas_productivity,POS,FALSE,christmas,"Last week I felt so READY. I made six wreaths, baked four pies and made hors deaurves for a party we attended."
+56,friends_buy_christmas_tree,a056_friends_buy_christmas_tree,POS,FALSE,christmas,I have the most amazing friends. One of them just gave me a little Christmas tree about a 18 inches tall (roughly 45.7cm) for... err... Christmas.
+57,employer_botches_training,a057_employer_botches_training,NEG,FALSE,work,I hope i'm not turning in to one of those people who are unemployed in the US. 
+58,sledding_with_friend,a058_sledding_with_friend,POS,FALSE,"snow, sledding",One snowy afternoon when I was all bored and lonely I decided to call Jake. 
+59,first_day_of_snow,a059_first_day_of_snow,POS,FALSE,snow,"Every year we wait half in anticipation, half in dread for the first day of snow."
+60,snowy_weekend_with_kids,a060_snowy_weekend_with_kids,POS,FALSE,"snow, family","I hope everyone survived the snow! With the early school dismissal on Friday, it felt like a 3 day weekend. "
+61,family_christmas_tradition,a061_family_christmas_tradition,POS,FALSE,"christmas, family",My family has many traditions and little things we do to celebrate the holidays.
+62,christmas_gifts_inventory,a062_christmas_gifts_inventory,POS,FALSE,"christmas, family",Yay Christmas. It's probably my favorite holiday of the year.
+63,christmas_bird_visits,a063_christmas_bird_visits,NEG,FALSE,"christmas, bird","Due to the extremely mild weather on Monday, my parents decided that they should open the windows to air out the house."
+64,christmas_magic_rediscovered,a064_christmas_magic_rediscovered,POS,FALSE,"christmas, family","Well, it has been long enough. For those of you who keep checking this blog to see if I am over my McGriddle fetish, I am actually posting again! "
+65,phone_call_song_reveals_feelings,a065_phone_call_song_reveals_feelings,NEG,FALSE,romance,"Today I realized how much I actually love her, and no not that crazy chick that I finally got rid of."
+66,claustrophobia_prevents_scuba,a066_claustrophobia_prevents_scuba,POS,FALSE,scuba,this weekend a group of us went on an arcadia excursion to mission beach.
+67,nearly_swam_into_shark,a067_nearly_swam_into_shark,POS,FALSE,"scuba, shark","Holy shit. On our dive today, I almost swam headfirst into a black tip shark bigger than me. "
+68,giant_clam_encountered_in_gbr,a068_giant_clam_encountered_in_gbr,POS,FALSE,"scuba, clam",today I went scuba diving on the Great Barrier Reef....AWESOME doesn't even begin to describe it.
+69,night_dive_to_sunken_ship,a069_night_dive_to_sunken_ship,POS,FALSE,scuba,"so this night dive was amzing, we drove down to the beach wich was 30mins away, got our gear and set out on the boat, nothing to see at all. "
+70,easter_eggs_and_near_collision,a070_easter_eggs_and_near_collision,POS,FALSE,easter,I decided the Easter bunny can stay. The Easter chicken needs someone to deliver the baskets. 
+71,fingerprints_and_flirtatious_felons,a071_fingerprints_and_flirtatious_felons,NEG,FALSE,romance,Today I was fingerprinting a guy who was to register as a drug offender. 
+72,dave_goes_overboard_during_haircut,a072_dave_goes_overboard_during_haircut,NEG,FALSE,haircut,So last night I decided my hair needed a little trim. Just to cut off some of the split ends to maybe help it grow a little longer
+73,unexpected_trailer_park_experience,a073_unexpected_trailer_park_experience,NEG,FALSE,romance,I used to occasionally hit up this biker bar on my way home from work. 
+74,exs_new_relationship_causes_loneliness,a074_exs_new_relationship_causes_loneliness,NEG,FALSE,romance,"my ex-boyfriend and me broke up about 1,5 year ago.. we've been very best friends ever since. "
+75,shark_sighting_near_molokai,a075_shark_sighting_near_molokai,NEG,FALSE,"swimming, shark",We gazed up at the sky swimming above us; our flippers hovering in the warm Hawaiian ocean. 
+76,courage_mustered_date_denied,a076_courage_mustered_date_denied,NEG,FALSE,romance,So I finally mustered the courage to ask a girl out.
+77,polar_express_obsession,a077_polar_express_obsession,POS,FALSE,christmas,"I'm watching the ""Polar Express""....I think it's been on TV umpteen times already since Thanksgiving."
+78,new_haircut_despised,a078_new_haircut_despised,NEG,FALSE,haircut,I got a haircut yesterday and I hate hate HATE it! 
+79,monsoon_leads_to_mud,a079_monsoon_leads_to_mud,POS,FALSE,storm,"Where we live in Arizona, we hardly ever get rain unless it is monsoon season and then it is little compared to the rest of the state"
+80,hot_exterminator_no_match_for_husband,a080_hot_exterminator_no_match_for_husband,POS,FALSE,romance,"First let me start by saying, I love my husband. I really, really do. "
+81,family_reunites_for_easter,a081_family_reunites_for_easter,POS,FALSE,"easter, family",Todd came home on Saturday afternoon which was great because that was my 30th birthday. 
+82,boyfriends_old_flame_causes_trouble,a082_boyfriends_old_flame_causes_trouble,NEG,FALSE,romance,"just before my boyfriend and i started dating, he had a friend and they both liked eachother and their relationship was going somewhere, but they were never ~officially~ dating. "
+83,ear_wounded_in_haircut_attempt,a083_ear_wounded_in_haircut_attempt,NEG,FALSE,haircut,I?ve recently had the bright idea that I should buy a pair of shears and just cut the boys? hair myself.
+84,haphazard_haircut_doesnt_satisfy,a084_haphazard_haircut_doesnt_satisfy,NEG,FALSE,haircut,"I'm not a picky person. I used to be, about food, but I'm not anymore. "
+85,easter_celebrations_with_family,a085_easter_celebrations_with_family,POS,FALSE,"easter, family",For easter I did a ton of fun stuff. On Friday I had a sleep over with my cousins.
+86,best_friends_boyfriend_despised,a086_best_friends_boyfriend_despised,NEG,FALSE,romance,"....So I Like my best friend(a girl), even though she has a boyfriend. "
+87,snow_ruins_plans_but_weekend_enjoyed,a087_snow_ruins_plans_but_weekend_enjoyed,POS,FALSE,snow,"Wow, we have a lot of snow! I'm reminding myself of The Hitchhiker's Guide... I state the obvious a lot."
+88,friends_feelings_unrequited,a088_friends_feelings_unrequited,NEG,FALSE,romance,"Was up all night chatting with a mate, it was just freakin awsome.. "
+89,feelings_for_another_end_relationship,a089_feelings_for_another_end_relationship,NEG,FALSE,romance,i've been going out with this guy for almost 2years and i really do love him. 
+90,feelings_unreciprocated_after_breakup,a090_feelings_unreciprocated_after_breakup,NEG,FALSE,romance,"So about two weeks ago I left my current ex boyfriend, who was emotionally abusive..."
+91,drunken_romancing_leads_to_regrets,a091_drunken_romancing_leads_to_regrets,NEG,FALSE,romance,So I'm posting in the Chi-town CL because I know that anyone I speak of in this rant will never find it.
+92,philandering_friend,a092_philandering_friend,NEG,FALSE,romance,"I have a group of female friends, and one of the girls (we'll call her cassy) has been dating a guy for a couple months."
+93,romantic_troubles,a093_romantic_troubles,NEG,FALSE,romance,OK. So last night I talked to Bob as always.
+94,christmas_decorating,a094_christmas_decorating,POS,FALSE,christmas,I've really gotten into the Christmas spirit. 
+95,camping_trip_too_intense,a095_camping_trip_too_intense,NEG,FALSE,camping,"Jake, John#, and I all decided to spend an entire weekend hiking and camping in the Three Ridges Wilderness."
+96,perfect_weekend_camping_induces_permagrin,a096_perfect_weekend_camping_induces_permagrin,POS,FALSE,camping,"Jane# and I went camping Friday evening, and so many factors converged into a perfect storm of bliss"
+97,introducing_friend_to_camping,a097_introducing_friend_to_camping,POS,FALSE,camping,So this past weekend I went camping at Green Ridge State Park out in Western Maryland.
+98,camping_with_friend,a098_camping_with_friend,POS,FALSE,camping,My friend Jane#### and I went up to St Agnes/Skookumchuck Hotsprings for a camping trip.  
+99,boyfriend_dragging_feet_on_moving_out,a099_boyfriend_dragging_feet_on_moving_out,NEG,FALSE,romance,"I've been with my boyfriend for 5 years, I'm 21 and he's 23. "
+100,cheating_boyfriend_loses_trust,a100_cheating_boyfriend_loses_trust,NEG,FALSE,romance,"Hmm. I am very much in love with my boyfriend and I have been for the past year and 3 months we have been together, but he cheated on me a few weeks ago. "
+101,english_graduation_expedited,a101_english_graduation_expedited,POS,FALSE,work,"######, #### and ####  by ~ ########  on  deviant  ART    And an update on my life:  I am now officially graduated with English."
+102,red_becomes_scary_lady,a102_red_becomes_scary_lady,NEG,FALSE,embarrasment,"Yes, it seems I've become   THAT   woman.   "
+103,silent_treatment_reconsidered,a103_silent_treatment_reconsidered,NEG,FALSE,romance,"I admit, I am a slient treatment girl whenever hubby pisses me off.  "
+104,speeches_discussed_at_productive_meeting,a104_speeches_discussed_at_productive_meeting,POS,FALSE,work,"On Thursday, September 27 our group met at Urec to have our meeting."
+105,grandfather_ill,a105_grandfather_ill,NEG,FALSE,"health, death, sickness","So last week, my 95 year old Grandfather fell and cracked his vertebrae.."
+106,bad_day,a106_bad_day,NEG,FALSE,"health, embarrasment, stress","Ah, Friday. Today I made it to my class in UP. Woke up at 8am, stayed in bed for 40mins"
+107,crabbing,a107_crabbing,POS,FALSE,"fishing, crabbing",On Friday we left at 5 a.m. to go to Chicago.
+108,baby,a108_baby,POS,FALSE,"family, health, life",After waiting what seemed like forever to get into the room. 

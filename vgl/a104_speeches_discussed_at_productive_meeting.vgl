@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE help [
+		<!ELEMENT schSavedStory (sourceStory?, visibleStatesSet, storyPoints)>
+		<!ELEMENT sourceStory (#PCDATA)>
+		<!ELEMENT visibleStatesSet (visibleStates+)>
+		<!ELEMENT visibleStates (#PCDATA)>
+		<!ELEMENT storyPoints (storyPoint*)>
+		<!ELEMENT storyPoint (#PCDATA)>
+]>
+<schSavedStory configKey="835742799" UID="A102" sourceStoryID="Story From File">
+	<visibleStatesSet>
+		<visibleStates timelineID="reality">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0, #StateTimeType.Present;2.0, #StateTimeType.Present;3.0, #StateTimeType.Present;4.0, #StateTimeType.Present;5.0, #StateTimeType.Present;6.0, #StateTimeType.Present;7.0, #StateTimeType.Present;8.0, #StateTimeType.Present;9.0</visibleStates>
+		<visibleStates timelineID="Epidictic speeches">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Jake">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Jake speech">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Ann">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Ann speech">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Jane">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Jane speech">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0, #StateTimeType.Present;2.0</visibleStates>
+		<visibleStates timelineID="Narrator">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Narrator speech">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+		<visibleStates timelineID="Speeches">#StateTimeType.Present;-1.0, #StateTimeType.Present;0.0, #StateTimeType.Present;1.0</visibleStates>
+	</visibleStatesSet>
+	<storyPoints>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10345804:narrator>"(CharacterGender.Female)"", NULL);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10129825:girl>"(CharacterGender.Female)"", "Jane");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10788852:woman>"(CharacterGender.Female)"", "Ann");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10243137:lady_2>"(CharacterGender.Female)"", "Amy");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10287213:man>"(CharacterGender.Male)"", "Jake");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun9903153:celebrity>"(CharacterGender.Female)"", "Lindsay Lohan");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10933658:Diana_2>"(CharacterGender.Neutral)"", NULL);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<noun10694258:teacher>"(CharacterGender.Male)"", "Ron Clark");]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, @@@<noun8514034:center>@()@@, @Urec@);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, """<GROUP>"(CharacterGender.Neutral, """<Root Level>"(CharacterGender.Neutral)"", ("Jake", "Ann", "Jane", "anon_noun10345804:narrator(CharacterGender.Female)_1"))"", NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb2486932_meet_something_meets("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**, span51-64, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignModifier(=reality=, {#StateTimeType.Present;0.0==>#StateTimeType.Present;1.0: **5:actionAssert:verb2486932_meet_something_meets("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**}, ^^^<on/around/over/etc. something>^(Preposition.At, @Urec@)^^, ModifierScope.Entire, span65-72);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;1.0==>#StateTimeType.Present;2.0, **5:actionAssert:verb1166093_exercise_something_exercises("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**, span143-173, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;2.0==>#StateTimeType.Present;3.0, **5:actionAssert:verb964694_converse_something_converses("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**, span204-234, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Epidictic speeches=, TimelineType.RelativeRefReal, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Speeches=, TimelineType.RelativeRefAlt, =Epidictic speeches=);]]></storyPoint>
+		<storyPoint><![CDATA[setAttachmentPoint(=Speeches=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0);]]></storyPoint>
+		<storyPoint><![CDATA[setAttachmentPoint(=Speeches=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Speeches=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb941990_speak_something_speaks("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignModifier(=Speeches=, {#StateTimeType.Present;0.0==>#StateTimeType.Present;1.0: **5:actionAssert:verb941990_speak_something_speaks("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**}, ^^publicly()^^, ModifierScope.Entire, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Epidictic speeches=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0, **5:actionAssert:conditionBegins([[5:conditionAssert:planTimeline("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1", =Speeches:PredicateMode.TimelineAssert=)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignModifier(=reality=, {#StateTimeType.Present;2.0==>#StateTimeType.Present;3.0: **5:actionAssert:verb964694_converse_something_converses("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**}, ^^becauseTimeline(=Epidictic speeches:PredicateMode.TimelineAssert=)^^, ModifierScope.Entire, span235-264);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Jane=, TimelineType.RelativeRefReal, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Jane speech=, TimelineType.RelativeRefAlt, =Jane=);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, |||<role of something unique>|(|||<noun4897762:demeanor_3>|()||, "Lindsay Lohan")||, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jane speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jane", [[5:conditionAssert:irresponsible#adj01997910.1(|anon_role of something unique(noun4897762:demeanor_3(), Lindsay Lohan)_1|)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jane speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jane", [[5:conditionAssert:reprehensible#adj02035765.4("Lindsay Lohan")]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jane=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0, **5:actionAssert:conditionBegins([[5:conditionAssert:planTimeline("Jane", =Jane speech:PredicateMode.TimelineAssert=)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;3.0==>#StateTimeType.Present;4.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jane", =Jane:PredicateMode.TimelineAssert=)**, span361-489, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Jake=, TimelineType.RelativeRefReal, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Jake speech=, TimelineType.RelativeRefAlt, =Jake=);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, |||<noun4660805:pensiveness_2>|()||, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jake speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jake", [[5:conditionAssert:spiritual#adj00631193.1(|anon_noun4660805:pensiveness_2()_1|)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jake speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jake", [[5:conditionAssert:beneficial#adj00064787.1(|anon_noun4660805:pensiveness_2()_1|)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Jake=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0, **5:actionAssert:conditionBegins([[5:conditionAssert:planTimeline("Jake", =Jake speech:PredicateMode.TimelineAssert=)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;4.0==>#StateTimeType.Present;5.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Jake", =Jake:PredicateMode.TimelineAssert=)**, span591-724, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[defineNoun(=reality=, |||<noun5643190:proficiency_2>|()||, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Ann=, TimelineType.RelativeRefReal, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Ann speech=, TimelineType.RelativeRefAlt, =Ann=);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Ann speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Ann", [[5:conditionAssert:praiseworthy#adj02585545.4("Ron Clark")]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Ann speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Ann", [[5:conditionAssert:accomplished#adj02129535.1("Ron Clark")]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Ann=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0, **5:actionAssert:conditionBegins([[5:conditionAssert:planTimeline("Ann", =Ann speech:PredicateMode.TimelineAssert=)]])**, span728-954, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;5.0==>#StateTimeType.Present;6.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("Ann", =Ann:PredicateMode.TimelineAssert=)**, span728-954, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Narrator=, TimelineType.RelativeRefReal, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[newTimeline(=Narrator speech=, TimelineType.RelativeRefAlt, =Narrator=);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Narrator speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("anon_noun10345804:narrator(CharacterGender.Female)_1", [[5:conditionAssert:charitable#adj00359459.1("anon_noun10933658:Diana_2(CharacterGender.Neutral)_1")]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Narrator speech=, #StateTimeType.Present;0.0==>#StateTimeType.Present;1.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("anon_noun10345804:narrator(CharacterGender.Female)_1", [[5:conditionAssert:praiseworthy#adj02585545.4("anon_noun10933658:Diana_2(CharacterGender.Neutral)_1")]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=Narrator=, #StateTimeType.Present;-1.0==>#StateTimeType.Present;0.0, **5:actionAssert:conditionBegins([[5:conditionAssert:planTimeline("anon_noun10345804:narrator(CharacterGender.Female)_1", =Narrator speech:PredicateMode.TimelineAssert=)]])**, NULL, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;6.0==>#StateTimeType.Present;7.0, **5:actionAssert:verb1009240_say_something_says_some_proposition("anon_noun10345804:narrator(CharacterGender.Female)_1", =Narrator:PredicateMode.TimelineAssert=)**, span958-1012, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;7.0==>#StateTimeType.Present;8.0, **5:actionAssert:verb941990_talk_something_talks_about_something("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1", Preposition.About, |anon_noun5643190:proficiency_2()_1|)**, span1016-1112, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignAction(=reality=, #StateTimeType.Present;8.0==>#StateTimeType.Present;9.0, **5:actionAssert:verb789448_call_something_calls_something("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1", "Amy")**, span1116-1174, NULL);]]></storyPoint>
+		<storyPoint><![CDATA[assignModifier(=reality=, {#StateTimeType.Present;8.0==>#StateTimeType.Present;9.0: **5:actionAssert:verb789448_call_something_calls_something("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1", "Amy")**}, ^^inOrderForAction(**5:actionAssert:verb720961_tell_something_tells_something_some_proposition("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1", "Amy", {#StateTimeType.Present;0.0==>#StateTimeType.Present;1.0: **5:actionAssert:verb2486932_meet_something_meets("anon_GROUP(CharacterGender.Neutral, Root Level(CharacterGender.Neutral), (Jake, Ann, Jane, anon_noun10345804:narrator(CharacterGender.Female)_1))_1")**})**)^^, ModifierScope.Entire, span1175-1240);]]></storyPoint>
+	</storyPoints>
+</schSavedStory>
+
+---SOURCE STORY BELOW---
+50f43096d7ee35a12f9977d1
+On Thursday, September 27 our group met at Urec to have our meeting.    The picture is of our group out front of Urec after we finished working out.    When we got out of the gym we decided that we should talk about our epidictic speeches.         We first started by telling which topics that we decided to make our speeches about.    Jane# said that she was going to write her speech on blaming Lindsay Lohan.    She feels that Lindsay Lohan is a bad role model.    In her speech, Jane# is going to compare her early life with her lifestyle that she leads now.    Jake decided that he was going to praise meditation.    He described meditation to have physical, spiritual, and behavioral benefits.    Ann decided to write her speech on Ron Clark who is a famous teacher.    She chose this topic because Ann also wants to be a teacher.    Ann is going to praise Ron Clark for all of his accomplishments in the field of teaching.    I chose to praise Princess Diana and her charity work.    In this meeting we also discussed some techniques that we were going to use during our speeches.    Amy was unable to attend this meeting but we contacted her and were able to tell her about what we discussed in our meeting.    This turned out to be a very productive meeting.    It was nice being able to talk about our speeches and have other people give there opinions on them.    By meeting with our group we all felt more confident with our epidictic speeches.
