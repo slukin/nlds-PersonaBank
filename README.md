@@ -2,6 +2,8 @@
 
 Version: Version 1.0. Updated May 17, 2016.
 
+This page was migrated from [https://nlds.soe.ucsc.edu/](https://nlds.soe.ucsc.edu/) on Sept 2023.
+
 ## Overview 
 We present a new corpus, PersonaBank, consisting of 108 personal stories from weblogs that have been annotated with their Story Intention Graphs, a deep representation of the fabula of a story. We describe the topics of the stories and the basis of the Story Intention Graph representation, as well as the process of annotating the stories to produce the Story Intention Graphs and the challenges of adapting the tool to this new personal narrative domain. We also discuss how the corpus can be used in applications that retell the story using different styles of tellings, co-tellings, or as a content planner.
 
